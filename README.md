@@ -1,0 +1,3 @@
+#Multi-select-react
+### This is a react project with typescript that implements multi select option.
+
